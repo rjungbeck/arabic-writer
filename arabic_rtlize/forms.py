@@ -2,6 +2,8 @@
     Author: Hasen il Judy
     License: GPL v2 or LGPL v2.1
 """
+    
+from six import unichr
 
 class HarfForms:
     """
